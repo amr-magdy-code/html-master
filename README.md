@@ -28,10 +28,11 @@ This repository is designed for students, developers, and anyone who wants to le
 15. [15 - Full HTML Template Example](HTML%20Advanced/15%20-%20Full%20HTML%20Template%20Example.html) - A complete HTML template example.
 
 ---
-
 ## How to Use
 
-1. Clone or download this repository:  
+1. **Clone the repository**  
+   Open your terminal or PowerShell and run:
    ```bash
    git clone https://github.com/amr-magdy-code/html-master.git
+
 
